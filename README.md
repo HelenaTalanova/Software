@@ -1,8 +1,9 @@
 # Прикладное программное обеспечение
-* TL.Demo Универсальный конфигуратор для новой версии ТООВ
+* TL.Config.V1 Универсальный конфигуратор для новой версии ТООВ
 
-Скачать TL.Demo https://github.com/IgorTurchin/Software/raw/master/TL/TL.Demo.exe
+Скачать TL.Config.V1 https://github.com/IgorTurchin/Software/raw/master/TL/TL.Config.V1.exe
 
+* TL.Demo
 * TL.Gefest.demo 
 
 Конфигуратор для светофоров с поддержкой протокола дорожного контроллера Gefest - демо версия. (Использовать для настройки светофоров перед монтажом на объекте)
