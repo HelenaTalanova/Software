@@ -1,7 +1,7 @@
 # Прикладное программное обеспечение
 * TL.Config.V1 Универсальный конфигуратор для новой версии ТООВ
 
-Скачать TL.Config https://github.com/IgorTurchin/Software/raw/master/TL/TL.Config.V3.0.exe
+Скачать TL.Config https://github.com/IgorTurchin/Software/raw/master/TL/TL.Config.V3.1.exe
 
 * TL.Demo
 * TL.Gefest.demo 
